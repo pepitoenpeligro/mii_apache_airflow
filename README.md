@@ -13,4 +13,4 @@ Specifically it implements a CI/CD cycle over the repositories
 
 ### Task Graph implemented
 
-![](task_graph)
+![](task_graph.png)
